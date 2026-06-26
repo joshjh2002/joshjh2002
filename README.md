@@ -6,7 +6,7 @@ England, United Kingdom | [Contact Me On LinkedIn](https://www.linkedin.com/in/j
 
 ---
 
-## 👥 Profile
+## Profile
 
 Highly motivated and results-driven Software Engineer with a strong foundation in modern full-stack web architectures, enterprise database systems, and data security infrastructure. Combining commercial experience in enterprise software development with executive governance roles in the non-profit sector, I bring a unique blend of technical expertise, project management capabilities, and compliance-driven engineering to every project.
 
